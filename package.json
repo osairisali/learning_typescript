@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "name": "learn_typescript",
+  "description": "learning typescript by doing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osairisali/learning_typescript.git"
+  },
+  "author": "ali akbar hakim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osairisali/learning_typescript/issues"
+  },
+  "homepage": "https://github.com/osairisali/learning_typescript#readme"
 }
